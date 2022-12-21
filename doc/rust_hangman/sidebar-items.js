@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["is_game_lost","Function to check if the game is lost"],["is_game_won","Function to check if the game is won"],["main","Main function"]]};
